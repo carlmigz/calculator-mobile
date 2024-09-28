@@ -1,2 +1,2 @@
 # calculator-mobile
-basic calculator
+Basic mode Calculator mobile application using Dart. 
